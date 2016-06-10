@@ -24,6 +24,8 @@ a{
 }
 
 
+
+
 nav{
 	width: 50%;
 	height: 50px;
@@ -42,8 +44,17 @@ li{
 	padding-right: 40px;
 	padding-left: 40px;
 	margin-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #000;
 }
 
+
+
+li:hover{
+	border: 1px solid  #09dbb3;
+	
+}
 
 #logo{
 	width: 300px;

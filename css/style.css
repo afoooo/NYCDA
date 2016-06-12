@@ -92,6 +92,16 @@ li:hover{
 	font-size: 30px;
 }
 
+#s5{	
+	color: #09dbb3;
+	font-weight:bold;
+	font-size: 30px;
+}
+
+#solutions{	margin-left: 100px;
+	margin-top:100px;
+	margin-bottom: 50px;}
+
 
 #city{
 	height: 60%;
@@ -166,3 +176,32 @@ button{
 	background-color: #FFF;
 
 }
+#wrapper{
+	margin-left: 200px;
+	margin-top: -70px;}
+
+#iconmexico{
+	width:150px;
+	height:120px;
+}
+
+#so1{
+	float:left;
+	margin-left: 100px;
+
+}
+#so2{
+	float:left;
+	margin-left: 500px;
+}
+#so3{
+	float:left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+#so4{
+	float:left;
+	margin-left: 500px;
+	margin-top:30px;
+}
+

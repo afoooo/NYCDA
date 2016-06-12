@@ -86,4 +86,24 @@ li:hover{
 	margin-left: 40px;
 }
 
+#s4{	
+	color: #09dbb3;
+	font-weight:bold;
+	font-size: 30px;
+}
+
+
+#city{
+	height: 60%;
+	width: 50%;	
+	float:left;}
+
+#front{
+	height: 60%;
+	width: 30%;
+	float:left;
+	margin-left: 30px;
+	margin-top: 200px;
+}
+
 
